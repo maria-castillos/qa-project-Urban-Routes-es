@@ -47,5 +47,7 @@ El repositorio tiene preparada la función retrieve_phone_code() que intercepta 
 ---
 # Ejecucion del proyecto
 
- Asegurate de tener instaladas las tecnologias antes mencionadas 
+Asegúrate de tener instaladas las tecnologías mencionadas anteriormente, excepto el IDE, que puede ser de tu preferencia. 
+Tambien asegurate de tener instaladas las tecnologias antes mencionadas.Luego la instalacion de manera sencillla se puede ejecutar 
+desde la terminal. El formato del comando es el siguiente: pytest folder/de/proyecto/tests.py. Ejemplo : /home/MariCastillo/projects/qa-project-Urban-Routes-es/main.py
  y luego esperar a que se ejecuten las 9 pruebas. La ejecución finaliza cuando se cierra el navegador  exitosamente.
